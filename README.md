@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+My name is Joshua and I'm a Sr. Software Developer with experience in various tech stacks and languages. 
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jmatth11&hide=jupyter%20notebook&langs_count=8)
+
 <!--
 **jmatth11/jmatth11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
