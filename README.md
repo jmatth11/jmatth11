@@ -10,7 +10,8 @@ Link to writtings: [dev.to/jmatth11](https://dev.to/jmatth11)
 
 ### Recent Projects 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jmatth11&repo=db_listener)](https://github.com/jmatth11/db_listener) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jmatth11&repo=db_listener_web)](https://github.com/jmatth11/db_listener_web)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jmatth11&repo=db_listener_web)](https://github.com/jmatth11/i2c-avr-driver)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jmatth11&repo=db_listener)](https://github.com/jmatth11/db_listener) 
 
 
 <!--
