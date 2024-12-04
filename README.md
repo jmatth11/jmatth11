@@ -10,9 +10,8 @@ Link to writtings: [dev.to/jmatth11](https://dev.to/jmatth11)
 
 ### Recent Projects 
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jmatth11&repo=water-pen)](https://github.com/jmatth11/water-pen) 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jmatth11&repo=i2c-avr-driver)](https://github.com/jmatth11/i2c-avr-driver)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jmatth11&repo=db_listener)](https://github.com/jmatth11/db_listener) 
-
 
 <!--
 **jmatth11/jmatth11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
