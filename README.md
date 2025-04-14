@@ -10,7 +10,7 @@ Link to writtings: [dev.to/jmatth11](https://dev.to/jmatth11)
 
 ### Recent Projects 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jmatth11&repo=scribe)](https://github.com/jmatth11/scribe) 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jmatth11&repo=websocket-c)](https://github.com/jmatth11/websocket-c) 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jmatth11&repo=i2c-avr-driver)](https://github.com/jmatth11/i2c-avr-driver)
 
 <!--
