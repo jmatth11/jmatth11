@@ -8,11 +8,6 @@ Link to writtings: [dev.to/jmatth11](https://dev.to/jmatth11)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jmatth11&hide=jupyter%20notebook&langs_count=8&layout=compact)
 
-### Recent Projects 
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jmatth11&repo=websocket-c)](https://github.com/jmatth11/websocket-c) 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jmatth11&repo=i2c-avr-driver)](https://github.com/jmatth11/i2c-avr-driver)
-
 <!--
 **jmatth11/jmatth11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
