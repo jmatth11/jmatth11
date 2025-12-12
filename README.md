@@ -8,14 +8,17 @@ Link to writtings: [dev.to/jmatth11](https://dev.to/jmatth11)
 
 | Language | Lines | Percentage |
 |----------|-------|------------|
-| Zig | 305114 |	35.44% |
-| C | 259853 |	30.18% |
-| C++ | 60803 |	7.06% |
-| Go | 45230 |	5.25% |
-| Lua | 42618 |	4.95% |
-| Ruby | 33170 | 3.85% |
-| JavaScript | 26991 | 3.14% |
-| Vim Script | 20523 | 2.38% |
+| C |	611758 |	36.69% |
+| Zig |	409975 |	24.59% |
+| Go |	180690 |	10.84% |
+| C++ |	107496 |	6.45% |
+| Objective-C |	59866 |	3.59% |
+| Lua |	53958 |	3.24% |
+| Ruby |	44645 |	2.68% |
+| Python |	34266 |	2.06% |
+| JavaScript |	26991 |	1.62% |
+
+
 
 <!--
 **jmatth11/jmatth11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
